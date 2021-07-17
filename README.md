@@ -12,4 +12,3 @@ create a new environment: conda create -n mldemo python=3.7.6
 activate the environment: conda activate mldemo
 
 install python packages: pip install -r requirements.txt
--------------------------------------------------------------------------------------------------
